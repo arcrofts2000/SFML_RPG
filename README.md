@@ -1,4 +1,4 @@
-Projected created by Adam Crofts, Daniel Kelly, Reece Timmons, and Matthew Rowe-Blackman.
+Project created by Adam Crofts, Daniel Kelly, Reece Timmons, and Matthew Rowe-Blackman.
 
 Adam Crofts - Player Programmer
 Daniel Kelly - Weapons and Game State Programmer
